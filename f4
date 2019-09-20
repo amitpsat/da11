@@ -2,5 +2,3 @@ Filesystem             Size  Used Avail Use% Mounted on
 /dev/mapper/rhel-root   50G   11G   40G  22% /
 devtmpfs               3.9G     0  3.9G   0% /dev
 tmpfs                  3.9G   13M  3.9G   1% /dev/shm
-tmpfs                  3.9G  9.9M  3.9G   1% /run
-iiiiiiiiiiiiiiiiiiiitmpfs                  3.9G     0  3.9G   0% /sys/fs/cgroup
