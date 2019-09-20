@@ -1,5 +1,6 @@
-total 8
--rw-r--r-- 1 root root 531 Sep 20 10:33 file1.txt
--rw-r--r-- 1 root root 641 Sep 20 10:33 file2.txt
--rw-r--r-- 1 root root   0 Sep 20 10:49 f3.txt
--rw-r--r-- 1 root root   0 Sep 20 10:53 f4
+Filesystem             Size  Used Avail Use% Mounted on
+/dev/mapper/rhel-root   50G   11G   40G  22% /
+devtmpfs               3.9G     0  3.9G   0% /dev
+tmpfs                  3.9G   13M  3.9G   1% /dev/shm
+tmpfs                  3.9G  9.9M  3.9G   1% /run
+tmpfs                  3.9G     0  3.9G   0% /sys/fs/cgroup
