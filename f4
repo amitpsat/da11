@@ -1,10 +1,6 @@
-Filesystem            1K-blocks     Used Available Use% Mounted on
-/dev/mapper/rhel-root  52403200 11426212  40976988  22% /
-devtmpfs                4015724        0   4015724   0% /dev
-tmpfs                   4033324    12688   4020636   1% /dev/shm
-tmpfs                   4033324    10128   4023196   1% /run
-tmpfs                   4033324        0   4033324   0% /sys/fs/cgroup
-/dev/sda4               1038336   154452    883884  15% /boot
-/dev/sda1                712704    48340    664364   7% /boot/efi
-/dev/mapper/rhel-home 151142292   519464 150622828   1% /home
-tmpfs                    806668       36    806632   1% /run/user/0
+total 12
+-rw-r--r-- 1 root root 531 Sep 20 10:33 file1.txt
+-rw-r--r-- 1 root root 641 Sep 20 10:33 file2.txt
+-rw-r--r-- 1 root root   0 Sep 20 10:49 f3.txt
+-rw-r--r-- 1 root root 531 Sep 20 11:20 f5
+-rw-r--r-- 1 root root   0 Sep 20 11:21 f4
